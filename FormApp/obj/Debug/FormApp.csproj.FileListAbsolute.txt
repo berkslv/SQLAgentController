@@ -1,0 +1,14 @@
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\bin\Debug\FormApp.exe.config
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\bin\Debug\FormApp.exe
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\bin\Debug\FormApp.pdb
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.csproj.AssemblyReference.cache
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.Form1.resources
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.exe
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.pdb
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\bin\Debug\FormApp.exe.manifest
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\bin\Debug\FormApp.application
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.exe.manifest
+C:\Users\berks_9484iah\Desktop\AgentController\FormApp\obj\Debug\FormApp.application
